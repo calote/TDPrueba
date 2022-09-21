@@ -6,4 +6,4 @@ Mi primer repositorio en Github para trabajar con RStudio y R
 Cosas por hacer:
 - Aprender que es un Fork.
 - Ya conocemos los botones: push y pull.
-- Cómo es la configuración de git inicial
+- Cómo es la configuración de git inicial 
