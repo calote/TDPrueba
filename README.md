@@ -7,3 +7,5 @@ Cosas por hacer:
 - Aprender que es un Fork.
 - Ya conocemos los botones: push y pull.
 - Cambio de Magdalena
+- Nuevo cambio.
+
